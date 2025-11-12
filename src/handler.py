@@ -1,3 +1,4 @@
+import os
 import json
 
 import pandas as pd
@@ -6,12 +7,21 @@ from player import Player
 from s3_helper import S3Helper
 from devig import devig_decimal
 from projection_models import implied_mean_lognormal_from_tails, implied_mean_nb_from_tails, implied_mean_zinb_from_tails
+from odds_api import OddsApiService, OddsApiResponse
 
 
 def lambda_handler(event, context):
     s3_helper = S3Helper(bucket = 'gkfantasy-nfl')
+    odds_api_service = OddsApiService(base_url = os.environ.get("THE_ODDS_API_BASE_URL"), secret_id = os.environ.get("SECRET_ID"))
     event_id = event['eventId']
-    lines_df = pd.read_json(s3_helper.get(key = f"projections/{event_id}.json"))
+
+    odds_api_response: OddsApiResponse = odds_api_service.get_event_odds(
+        event_id = event_id, 
+        markets = os.environ.get("MARKETS"), 
+        bookmakers = os.environ.get("BOOKMAKERS")
+    )
+
+    lines_df = odds_api_response.to_df()
 
     players_list: list[Player] = get_players(lines_df)
 
@@ -36,6 +46,8 @@ def lambda_handler(event, context):
         p.proj_receptions = get_receptions(
             devig_decimal(player_lines_df[player_lines_df["prop"].isin(["player_receptions", "player_receptions_alternate"])])
         )
+
+    s3_helper.put(key = f"projections/{event_id}.json", content = json.dumps([p.to_dict() for p in players_list]))
 
     return {
         'statusCode': 200,
