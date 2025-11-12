@@ -1,75 +1,63 @@
-name: Deploy Container Lambda (develop)
+name: Build & Deploy Lambda (ECR Image)
 
 on:
   push:
-    branches: [ "develop" ]
-
-permissions:
-  id-token: write
-  contents: read
+    branches: [ develop ]
 
 env:
   AWS_REGION: us-east-1
-  AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
-  ECR_REPO: ${{ secrets.ECR_REPO }}
-  LAMBDA_FUNCTION_NAME: ${{ secrets.LAMBDA_FUNCTION_NAME }}
-  ROLE_TO_ASSUME: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+  ECR_REPOSITORY: gkfantasy-nfl-make-projections-for-event
+  LAMBDA_FUNCTION_NAME: gkfantasy-nfl-make-projections-for-event
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: read
+      id-token: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Debug GitHub ref/repo/event (what `sub` should look like)
-        run: |
-          echo "repo=${GITHUB_REPOSITORY}"
-          echo "ref=${GITHUB_REF}"
-          echo "event=${GITHUB_EVENT_NAME}"
-          echo "EXPECTED_SUB=repo:${GITHUB_REPOSITORY}:ref:${GITHUB_REF}"
-
-      - name: Dump OIDC token claims (iss, aud, sub)
-        run: |
-          set -euo pipefail
-          # Request a token for the standard audience expected by AWS STS
-          TOK_JSON=$(curl -sSf -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
-            "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=sts.amazonaws.com")
-          OIDC=$(echo "$TOK_JSON" | jq -r '.value')
-          IFS='.' read -r HDR PAY SIG <<<"$OIDC"
-          echo "OIDC header:"; echo "$HDR" | base64 -d 2>/dev/null || true
-          echo "OIDC payload:"; echo "$PAY" | base64 -d 2>/dev/null | jq '{iss, aud, sub}'
-
-      - name: Configure AWS credentials (OIDC)
+      - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: ${{ env.ROLE_TO_ASSUME }}
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
           aws-region: ${{ env.AWS_REGION }}
 
       - name: Login to Amazon ECR
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
 
-      - name: Build & Push Image
-        env:
-          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          IMAGE_TAG: ${{ github.sha }}
+      - name: Build, tag, and push Docker image to ECR
+        id: build-image
         run: |
-          docker build -t $ECR_REGISTRY/${ECR_REPO}:$IMAGE_TAG .
-          docker push $ECR_REGISTRY/${ECR_REPO}:$IMAGE_TAG
-          # also push a 'develop' tag for convenience
-          docker tag $ECR_REGISTRY/${ECR_REPO}:$IMAGE_TAG $ECR_REGISTRY/${ECR_REPO}:develop
-          docker push $ECR_REGISTRY/${ECR_REPO}:develop
-          echo "IMAGE_URI=$ECR_REGISTRY/${ECR_REPO}:$IMAGE_TAG" >> $GITHUB_ENV
+          AWS_REGION=${{ env.AWS_REGION }}
+          ECR_REGISTRY=${{ steps.login-ecr.outputs.registry }}
+          ECR_REPOSITORY=${{ env.ECR_REPOSITORY }}
+          IMAGE_TAG=${GITHUB_SHA}
 
-      - name: Update Lambda to new image
+          IMAGE_URI="$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG"
+          echo "IMAGE_URI=$IMAGE_URI" >> $GITHUB_OUTPUT
+
+          echo "Building image: $IMAGE_URI"
+          docker build -t "$IMAGE_URI" .
+
+          echo "Pushing image: $IMAGE_URI"
+          docker push "$IMAGE_URI"
+
+          # Optional: also push a :latest tag
+          LATEST_IMAGE_URI="$ECR_REGISTRY/$ECR_REPOSITORY:latest"
+          docker tag "$IMAGE_URI" "$LATEST_IMAGE_URI"
+          docker push "$LATEST_IMAGE_URI"
+
+      - name: Update Lambda to use new image
         run: |
           aws lambda update-function-code \
-            --function-name "${LAMBDA_FUNCTION_NAME}" \
-            --image-uri "${IMAGE_URI}" \
-            --publish
+            --function-name "${{ env.LAMBDA_FUNCTION_NAME }}" \
+            --image-uri "${{ steps.build-image.outputs.IMAGE_URI }}"
 
-      - name: Output Lambda version
-        run: |
-          aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --query 'Configuration.[Version,LastModified,ImageUri]'
+          aws lambda wait function-updated \
+            --function-name "${{ env.LAMBDA_FUNCTION_NAME }}"
