@@ -39,7 +39,7 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': 200,
-        'df': json.dumps(players_list)
+        'df': json.dumps([p.to_dict() for p in players_list])
     }
 
 
