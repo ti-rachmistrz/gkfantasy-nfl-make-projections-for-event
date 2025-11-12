@@ -40,7 +40,10 @@ def implied_mean_lognormal_from_tails(devig_df: pd.DataFrame) -> float:
     if not required_cols.issubset(set(devig_df.columns)):
         raise ValueError(f"devig_df must contain columns: {sorted(required_cols)}")
 
-    df = devig_df.copy()
+    # Coerce to numeric floats and sanitize
+    df = devig_df.loc[:, ["overUnder", "point", "p_devig"]].copy()
+    df["point"] = pd.to_numeric(df["point"])
+    df["p_devig"] = pd.to_numeric(df["p_devig"])
 
     # Use only positive thresholds (lognormal support is x>0)
     df = df[df["point"] > 0].copy()
