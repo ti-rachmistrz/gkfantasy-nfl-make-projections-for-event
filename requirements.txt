@@ -1,5 +1,6 @@
 boto3
 botocore
+requests
 scipy
 numpy
 pandas

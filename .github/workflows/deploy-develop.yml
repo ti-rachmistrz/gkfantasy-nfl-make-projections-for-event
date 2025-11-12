@@ -58,6 +58,3 @@ jobs:
           aws lambda update-function-code \
             --function-name "${{ env.LAMBDA_FUNCTION_NAME }}" \
             --image-uri "${{ steps.build-image.outputs.IMAGE_URI }}"
-
-          aws lambda wait function-updated \
-            --function-name "${{ env.LAMBDA_FUNCTION_NAME }}"
