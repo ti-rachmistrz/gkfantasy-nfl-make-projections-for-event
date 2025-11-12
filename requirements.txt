@@ -1,0 +1,5 @@
+# Keep this minimal; add your libs here
+boto3
+scipy
+numpy
+pandas

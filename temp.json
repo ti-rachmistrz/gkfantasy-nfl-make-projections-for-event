@@ -1,0 +1,1674 @@
+[
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 2.0
+    },
+    {
+        "player_name": "Kareem Hunt",
+        "player_name_normal": "kareemhunt",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 2.2
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 2.3
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 2.45
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 2.55
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 3.0
+    },
+    {
+        "player_name": "Marquise Brown",
+        "player_name_normal": "marquisebrown",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 3.6
+    },
+    {
+        "player_name": "Tre Tucker",
+        "player_name_normal": "tretucker",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 3.6
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 3.9
+    },
+    {
+        "player_name": "Michael Mayer",
+        "player_name_normal": "michaelmayer",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 4.8
+    },
+    {
+        "player_name": "Jack Bech",
+        "player_name_normal": "jackbech",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 5.5
+    },
+    {
+        "player_name": "Elijah Mitchell",
+        "player_name_normal": "elijahmitchell",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 6.5
+    },
+    {
+        "player_name": "Brashard Smith",
+        "player_name_normal": "brashardsmith",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 6.5
+    },
+    {
+        "player_name": "Kansas City Chiefs Defense",
+        "player_name_normal": "kansascitychiefsdefense",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 7.0
+    },
+    {
+        "player_name": "JuJu Smith-Schuster",
+        "player_name_normal": "jujusmithschuster",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 7.0
+    },
+    {
+        "player_name": "Noah Gray",
+        "player_name_normal": "noahgray",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 7.5
+    },
+    {
+        "player_name": "Tyquan Thornton",
+        "player_name_normal": "tyquanthornton",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 8.0
+    },
+    {
+        "player_name": "Dont'e Thornton Jr.",
+        "player_name_normal": "dontethorntonjr",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 8.0
+    },
+    {
+        "player_name": "Raheem Mostert",
+        "player_name_normal": "raheemmostert",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 9.0
+    },
+    {
+        "player_name": "Las Vegas Raiders Defense",
+        "player_name_normal": "lasvegasraidersdefense",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 11.0
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 12.0
+    },
+    {
+        "player_name": "Ian Thomas",
+        "player_name_normal": "ianthomas",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 17.0
+    },
+    {
+        "player_name": "Dylan Laube",
+        "player_name_normal": "dylanlaube",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 20.0
+    },
+    {
+        "player_name": "Zamir White",
+        "player_name_normal": "zamirwhite",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 20.0
+    },
+    {
+        "player_name": "Alex Bachman",
+        "player_name_normal": "alexbachman",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 21.0
+    },
+    {
+        "player_name": "Justin Shorter",
+        "player_name_normal": "justinshorter",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 26.0
+    },
+    {
+        "player_name": "Jared Wiley",
+        "player_name_normal": "jaredwiley",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 31.0
+    },
+    {
+        "player_name": "Robert Tonyan",
+        "player_name_normal": "roberttonyan",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 31.0
+    },
+    {
+        "player_name": "Carter Runyon",
+        "player_name_normal": "carterrunyon",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 34.0
+    },
+    {
+        "player_name": "Jalen Royals",
+        "player_name_normal": "jalenroyals",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 34.0
+    },
+    {
+        "player_name": "Nikko Remigio",
+        "player_name_normal": "nikkoremigio",
+        "prop": "player_anytime_td",
+        "overUnder": "over",
+        "point": "0.5",
+        "odds": 34.0
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_interceptions",
+        "overUnder": "over",
+        "point": 0.5,
+        "odds": 1.54
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_interceptions",
+        "overUnder": "under",
+        "point": 0.5,
+        "odds": 2.4
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_interceptions",
+        "overUnder": "over",
+        "point": 0.5,
+        "odds": 2.04
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_interceptions",
+        "overUnder": "under",
+        "point": 0.5,
+        "odds": 1.74
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_tds",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 2.82
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_tds",
+        "overUnder": "under",
+        "point": 2.5,
+        "odds": 1.4
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_tds",
+        "overUnder": "over",
+        "point": 0.5,
+        "odds": 1.5
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_tds",
+        "overUnder": "under",
+        "point": 0.5,
+        "odds": 2.48
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 0.5,
+        "odds": 1.52
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 3.8
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 10.2
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 0.5,
+        "odds": 1.07
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 1.43
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 2.78
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_tds_alternate",
+        "overUnder": "over",
+        "point": 3.5,
+        "odds": 6.8
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds",
+        "overUnder": "over",
+        "point": 204.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds",
+        "overUnder": "under",
+        "point": 204.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds",
+        "overUnder": "over",
+        "point": 254.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds",
+        "overUnder": "under",
+        "point": 254.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 174.5,
+        "odds": 1.09
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 199.5,
+        "odds": 1.21
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 224.5,
+        "odds": 1.41
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 249.5,
+        "odds": 1.77
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 274.5,
+        "odds": 2.42
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 299.5,
+        "odds": 3.5
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 324.5,
+        "odds": 5.5
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 349.5,
+        "odds": 8.5
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 374.5,
+        "odds": 13.0
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 124.5,
+        "odds": 1.11
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 149.5,
+        "odds": 1.22
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 174.5,
+        "odds": 1.41
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 199.5,
+        "odds": 1.76
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 224.5,
+        "odds": 2.42
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 249.5,
+        "odds": 3.4
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 274.5,
+        "odds": 5.3
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 299.5,
+        "odds": 8.5
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_pass_yds_alternate",
+        "overUnder": "over",
+        "point": 324.5,
+        "odds": 13.0
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds",
+        "overUnder": "over",
+        "point": 38.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds",
+        "overUnder": "under",
+        "point": 38.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds",
+        "overUnder": "over",
+        "point": 64.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds",
+        "overUnder": "under",
+        "point": 64.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Marquise Brown",
+        "player_name_normal": "marquisebrown",
+        "prop": "player_reception_yds",
+        "overUnder": "over",
+        "point": 23.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Marquise Brown",
+        "player_name_normal": "marquisebrown",
+        "prop": "player_reception_yds",
+        "overUnder": "under",
+        "point": 23.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds",
+        "overUnder": "over",
+        "point": 42.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds",
+        "overUnder": "under",
+        "point": 42.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 24.5,
+        "odds": 1.07
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 29.5,
+        "odds": 1.11
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 39.5,
+        "odds": 1.24
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 49.5,
+        "odds": 1.42
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 1.68
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 69.5,
+        "odds": 2.08
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 79.5,
+        "odds": 2.62
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 89.5,
+        "odds": 3.25
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 99.5,
+        "odds": 4.2
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 109.5,
+        "odds": 5.5
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 124.5,
+        "odds": 8.5
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 149.5,
+        "odds": 13.8
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 9.5,
+        "odds": 1.06
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 14.5,
+        "odds": 1.12
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 19.5,
+        "odds": 1.21
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 24.5,
+        "odds": 1.32
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 29.5,
+        "odds": 1.47
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 39.5,
+        "odds": 1.93
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 49.5,
+        "odds": 2.62
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 3.65
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 69.5,
+        "odds": 5.0
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 79.5,
+        "odds": 7.3
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 89.5,
+        "odds": 9.8
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 99.5,
+        "odds": 13.0
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 109.5,
+        "odds": 18.0
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 14.5,
+        "odds": 1.09
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 19.5,
+        "odds": 1.17
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 24.5,
+        "odds": 1.28
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 29.5,
+        "odds": 1.4
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 39.5,
+        "odds": 1.74
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 49.5,
+        "odds": 2.26
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 2.98
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 69.5,
+        "odds": 4.0
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 79.5,
+        "odds": 5.3
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 89.5,
+        "odds": 7.4
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 99.5,
+        "odds": 9.8
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_reception_yds_alternate",
+        "overUnder": "over",
+        "point": 109.5,
+        "odds": 13.0
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions",
+        "overUnder": "over",
+        "point": 3.5,
+        "odds": 1.71
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions",
+        "overUnder": "under",
+        "point": 3.5,
+        "odds": 2.06
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions",
+        "overUnder": "over",
+        "point": 3.5,
+        "odds": 1.63
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions",
+        "overUnder": "under",
+        "point": 3.5,
+        "odds": 2.18
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions",
+        "overUnder": "over",
+        "point": 5.5,
+        "odds": 1.94
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions",
+        "overUnder": "under",
+        "point": 5.5,
+        "odds": 1.8
+    },
+    {
+        "player_name": "Marquise Brown",
+        "player_name_normal": "marquisebrown",
+        "prop": "player_receptions",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 2.16
+    },
+    {
+        "player_name": "Marquise Brown",
+        "player_name_normal": "marquisebrown",
+        "prop": "player_receptions",
+        "overUnder": "under",
+        "point": 2.5,
+        "odds": 1.65
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 1.06
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 3.5,
+        "odds": 1.21
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 4.5,
+        "odds": 1.45
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 5.5,
+        "odds": 1.94
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 6.5,
+        "odds": 2.74
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 7.5,
+        "odds": 4.1
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 8.5,
+        "odds": 6.2
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 9.5,
+        "odds": 9.5
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 1.07
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 1.29
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 3.5,
+        "odds": 1.68
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 4.5,
+        "odds": 2.48
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 5.5,
+        "odds": 3.8
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 6.5,
+        "odds": 6.5
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 7.5,
+        "odds": 9.8
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 1.07
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 1.26
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 3.5,
+        "odds": 1.63
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 4.5,
+        "odds": 2.4
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 5.5,
+        "odds": 3.7
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 6.5,
+        "odds": 5.9
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_receptions_alternate",
+        "overUnder": "over",
+        "point": 7.5,
+        "odds": 9.8
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_rush_yds",
+        "overUnder": "over",
+        "point": 10.5,
+        "odds": 1.82
+    },
+    {
+        "player_name": "Geno Smith",
+        "player_name_normal": "genosmith",
+        "prop": "player_rush_yds",
+        "overUnder": "under",
+        "point": 10.5,
+        "odds": 1.93
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds",
+        "overUnder": "under",
+        "point": 59.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds",
+        "overUnder": "over",
+        "point": 25.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds",
+        "overUnder": "under",
+        "point": 25.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Kareem Hunt",
+        "player_name_normal": "kareemhunt",
+        "prop": "player_rush_yds",
+        "overUnder": "over",
+        "point": 28.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Kareem Hunt",
+        "player_name_normal": "kareemhunt",
+        "prop": "player_rush_yds",
+        "overUnder": "under",
+        "point": 28.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds",
+        "overUnder": "over",
+        "point": 40.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds",
+        "overUnder": "under",
+        "point": 40.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 29.5,
+        "odds": 1.1
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 39.5,
+        "odds": 1.25
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 49.5,
+        "odds": 1.49
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 1.88
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 69.5,
+        "odds": 2.44
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 79.5,
+        "odds": 3.2
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 89.5,
+        "odds": 4.2
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 99.5,
+        "odds": 5.7
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 109.5,
+        "odds": 7.4
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 124.5,
+        "odds": 11.0
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 9.5,
+        "odds": 1.13
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 14.5,
+        "odds": 1.29
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 19.5,
+        "odds": 1.48
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 24.5,
+        "odds": 1.78
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 29.5,
+        "odds": 2.22
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 39.5,
+        "odds": 3.4
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 49.5,
+        "odds": 5.5
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 8.5
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 69.5,
+        "odds": 13.0
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 79.5,
+        "odds": 18.0
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 14.5,
+        "odds": 1.07
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 19.5,
+        "odds": 1.15
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 24.5,
+        "odds": 1.25
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 29.5,
+        "odds": 1.38
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 39.5,
+        "odds": 1.8
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 49.5,
+        "odds": 2.54
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 59.5,
+        "odds": 3.6
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 69.5,
+        "odds": 5.1
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 79.5,
+        "odds": 7.4
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 89.5,
+        "odds": 10.2
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_rush_yds_alternate",
+        "overUnder": "over",
+        "point": 99.5,
+        "odds": 13.8
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 7.5
+    },
+    {
+        "player_name": "Kareem Hunt",
+        "player_name_normal": "kareemhunt",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 9.5
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 11.0
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 12.0
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 14.0
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 19.0
+    },
+    {
+        "player_name": "Tre Tucker",
+        "player_name_normal": "tretucker",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 23.0
+    },
+    {
+        "player_name": "Patrick Mahomes",
+        "player_name_normal": "patrickmahomes",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 28.0
+    },
+    {
+        "player_name": "Marquise Brown",
+        "player_name_normal": "marquisebrown",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 28.0
+    },
+    {
+        "player_name": "Michael Mayer",
+        "player_name_normal": "michaelmayer",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 46.0
+    },
+    {
+        "player_name": "Jack Bech",
+        "player_name_normal": "jackbech",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 56.0
+    },
+    {
+        "player_name": "Kansas City Chiefs Defense",
+        "player_name_normal": "kansascitychiefsdefense",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 71.0
+    },
+    {
+        "player_name": "Brashard Smith",
+        "player_name_normal": "brashardsmith",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 76.0
+    },
+    {
+        "player_name": "Elijah Mitchell",
+        "player_name_normal": "elijahmitchell",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 76.0
+    },
+    {
+        "player_name": "JuJu Smith-Schuster",
+        "player_name_normal": "jujusmithschuster",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 81.0
+    },
+    {
+        "player_name": "Noah Gray",
+        "player_name_normal": "noahgray",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 101.0
+    },
+    {
+        "player_name": "Dont'e Thornton Jr.",
+        "player_name_normal": "dontethorntonjr",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 101.0
+    },
+    {
+        "player_name": "Tyquan Thornton",
+        "player_name_normal": "tyquanthornton",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 101.0
+    },
+    {
+        "player_name": "Raheem Mostert",
+        "player_name_normal": "raheemmostert",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 1.5,
+        "odds": 126.0
+    },
+    {
+        "player_name": "Ashton Jeanty",
+        "player_name_normal": "ashtonjeanty",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 36.0
+    },
+    {
+        "player_name": "Kareem Hunt",
+        "player_name_normal": "kareemhunt",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 46.0
+    },
+    {
+        "player_name": "Rashee Rice",
+        "player_name_normal": "rasheerice",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 61.0
+    },
+    {
+        "player_name": "Travis Kelce",
+        "player_name_normal": "traviskelce",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 76.0
+    },
+    {
+        "player_name": "Xavier Worthy",
+        "player_name_normal": "xavierworthy",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 81.0
+    },
+    {
+        "player_name": "Isiah Pacheco",
+        "player_name_normal": "isiahpacheco",
+        "prop": "player_tds_over",
+        "overUnder": "over",
+        "point": 2.5,
+        "odds": 151.0
+    }
+]
